@@ -28,9 +28,11 @@ Use the following links to serach scientific research paper
 
 
 
-
 # 
 --
-Head,
-Dept. of Computer Engineering,
+
+Er. Shiva K. Shrestha
+
+Head, Computer Department,
+
 Khwopa College of Engineering
