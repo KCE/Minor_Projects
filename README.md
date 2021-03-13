@@ -1,4 +1,4 @@
-# Minor_Project_74
+# Minor Projects Guides
 BCT Minor Praject (2074 Batch)
 
 Deadline:
